@@ -7,7 +7,6 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a> <br>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> 
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a> 
-<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/></a> <br>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></a> 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a> 
         <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> 
@@ -17,7 +16,7 @@
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJaeyeon0308&layout=compact&card_width=445&custom_title=most%20used%20languages%20&show_icons=true&theme=dracula)--!>
 <br>
 
-<a href="mailto:jaeyeonJYP@gmail.com">
+<!--<a href="mailto:jaeyeonJYP@gmail.com">
 <img src="http://img.shields.io/badge/-Gmail-D14846?style=flat&logo=Medium&link=mailto:jaeyeonJYP@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>-->
 </a>
