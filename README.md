@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=%20💗💖💖💗%20%20&height=200&fontSize=80)
 ![Jaeyeon's github stats](https://github-readme-stats.vercel.app/api?username=ParkJaeyeon0308&show_icons=true&theme=react)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJaeyeon0308&layout=compact&card_width=445&custom_title=most%20used%20languages%20&show_icons=true&theme=dracula)-
 <p align='center'>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a> 
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a> 
@@ -13,7 +14,6 @@
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></a> 
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a> <br>
         </p>
-<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJaeyeon0308&layout=compact&card_width=445&custom_title=most%20used%20languages%20&show_icons=true&theme=dracula)--!>
 <br>
 
 <!--<a href="mailto:jaeyeonJYP@gmail.com">
